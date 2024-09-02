@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "66c5c36f8c554b33ee8a9e61"
+  },
+  "task": {
+    "$oid": "669595f8ce1c6c45a7c005a8"
+  },
+  "date": {
+    "$date": "2024-08-20T18:30:00.000Z"
+  },
+  "completion": 47,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c6c1cc8c554b33ee8a9e7a"
+  },
+  "task": {
+    "$oid": "669595f8ce1c6c45a7c005a8"
+  },
+  "date": {
+    "$date": "2024-08-21T18:30:00.000Z"
+  },
+  "completion": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c80253eb73c2c62a4ec140"
+  },
+  "task": {
+    "$oid": "669595f8ce1c6c45a7c005a8"
+  },
+  "date": {
+    "$date": "2024-08-22T18:30:00.000Z"
+  },
+  "completion": 64,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c95dfc37e12eb88538a871"
+  },
+  "task": {
+    "$oid": "669595f8ce1c6c45a7c005a8"
+  },
+  "date": {
+    "$date": "2024-08-23T18:30:00.000Z"
+  },
+  "completion": 67,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c962daafcefddde10e75c4"
+  },
+  "task": {
+    "$oid": "66c961a6afcefddde10e7574"
+  },
+  "date": {
+    "$date": "2024-08-23T18:30:00.000Z"
+  },
+  "completion": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cabb0542a2a8cbce4e6369"
+  },
+  "task": {
+    "$oid": "66c961a6afcefddde10e7574"
+  },
+  "date": {
+    "$date": "2024-08-24T18:30:00.000Z"
+  },
+  "completion": 23,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9bfbd2e40377da09555df"
+  },
+  "task": {
+    "$oid": "66c9bf742e40377da095555e"
+  },
+  "date": {
+    "$date": "2024-08-23T18:30:00.000Z"
+  },
+  "completion": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cb1f282fb0eaaa379bda34"
+  },
+  "task": {
+    "$oid": "66c9bf742e40377da095555e"
+  },
+  "date": {
+    "$date": "2024-08-24T18:30:00.000Z"
+  },
+  "completion": 11,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cb412c2fb0eaaa379bdabd"
+  },
+  "task": {
+    "$oid": "66cb411a2fb0eaaa379bda7d"
+  },
+  "date": {
+    "$date": "2024-08-24T18:30:00.000Z"
+  },
+  "completion": 35,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbf3782fb0eaaa379bde93"
+  },
+  "task": {
+    "$oid": "66c961a6afcefddde10e7574"
+  },
+  "date": {
+    "$date": "2024-08-25T18:30:00.000Z"
+  },
+  "completion": 14,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbf3972fb0eaaa379bdebb"
+  },
+  "task": {
+    "$oid": "66c9bf742e40377da095555e"
+  },
+  "date": {
+    "$date": "2024-08-25T18:30:00.000Z"
+  },
+  "completion": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbf3a62fb0eaaa379bded9"
+  },
+  "task": {
+    "$oid": "66cb411a2fb0eaaa379bda7d"
+  },
+  "date": {
+    "$date": "2024-08-25T18:30:00.000Z"
+  },
+  "completion": 75,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ce9b78dc09c84f5530776b"
+  },
+  "task": {
+    "$oid": "66c961a6afcefddde10e7574"
+  },
+  "date": {
+    "$date": "2024-08-27T18:30:00.000Z"
+  },
+  "completion": 81,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ce9d38dc09c84f553078c8"
+  },
+  "task": {
+    "$oid": "66c9bf742e40377da095555e"
+  },
+  "date": {
+    "$date": "2024-08-27T18:30:00.000Z"
+  },
+  "completion": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ce9d55dc09c84f5530792a"
+  },
+  "task": {
+    "$oid": "66cb411a2fb0eaaa379bda7d"
+  },
+  "date": {
+    "$date": "2024-08-27T18:30:00.000Z"
+  },
+  "completion": 100,
+  "__v": 0
+}]

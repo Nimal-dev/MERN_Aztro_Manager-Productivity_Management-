@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "669592a2ce1c6c45a7c00524"
+  },
+  "email": "admin@gmail.com",
+  "password": "123",
+  "userStatus": 0,
+  "userid": {
+    "$oid": "669592a2ce1c6c45a7c00522"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66959319ce1c6c45a7c00542"
+  },
+  "email": "member1@gmail.com",
+  "password": "123",
+  "userStatus": 1,
+  "userid": {
+    "$oid": "66959319ce1c6c45a7c00540"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6695955ace1c6c45a7c00574"
+  },
+  "email": "member2@gmail.co",
+  "password": "123",
+  "userStatus": 1,
+  "userid": {
+    "$oid": "6695955ace1c6c45a7c00572"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66959a73e1c3169762c08160"
+  },
+  "email": "member3@gmail.com",
+  "password": "123",
+  "userStatus": 1,
+  "userid": {
+    "$oid": "66959a73e1c3169762c0815e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2398d80d4c300a2b5636c"
+  },
+  "email": "teamlead1@gmail.com",
+  "password": "123",
+  "userStatus": 2,
+  "userid": {
+    "$oid": "66a2398d80d4c300a2b5636a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9b5fe423b6d37e645d499"
+  },
+  "email": "teamlead2@gmail.com",
+  "password": "123",
+  "userStatus": 2,
+  "userid": {
+    "$oid": "66a9b5fe423b6d37e645d497"
+  },
+  "__v": 0
+}]

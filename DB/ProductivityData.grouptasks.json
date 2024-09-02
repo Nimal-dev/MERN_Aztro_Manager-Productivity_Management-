@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "66a9cbe792cc9d2284be66fd"
+  },
+  "clientid": [
+    {
+      "$oid": "66959319ce1c6c45a7c00542"
+    }
+  ],
+  "taskname": "test",
+  "priority": "High",
+  "deadline": {
+    "$date": "2024-08-02T00:00:00.000Z"
+  },
+  "description": "sdfsdfa",
+  "teamLeader": {
+    "$oid": "66a2398d80d4c300a2b5636a"
+  },
+  "status": 1,
+  "completionPercentage": 100,
+  "createdAt": {
+    "$date": "2024-07-31T05:30:15.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aae79c183242a2f14dc9a7"
+  },
+  "clientid": [
+    {
+      "$oid": "66959319ce1c6c45a7c00542"
+    },
+    {
+      "$oid": "6695955ace1c6c45a7c00574"
+    }
+  ],
+  "taskname": "TAsk 2",
+  "priority": "Medium",
+  "deadline": {
+    "$date": "2024-08-03T00:00:00.000Z"
+  },
+  "description": "Test descriptioon",
+  "teamLeader": {
+    "$oid": "66a2398d80d4c300a2b5636a"
+  },
+  "status": 0,
+  "completionPercentage": 46,
+  "createdAt": {
+    "$date": "2024-08-01T01:40:44.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aae7d8183242a2f14dc9cf"
+  },
+  "clientid": [],
+  "taskname": "Group Task 2",
+  "priority": "High",
+  "deadline": {
+    "$date": "2024-08-15T00:00:00.000Z"
+  },
+  "description": "Test Dexcription  for teamlead 2",
+  "teamLeader": {
+    "$oid": "66a9b5fe423b6d37e645d497"
+  },
+  "status": 0,
+  "completionPercentage": 0,
+  "createdAt": {
+    "$date": "2024-08-01T01:41:44.903Z"
+  },
+  "__v": 0
+}]

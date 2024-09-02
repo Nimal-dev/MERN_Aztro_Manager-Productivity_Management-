@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "66c961a6afcefddde10e7574"
+  },
+  "client": {
+    "$oid": "66959319ce1c6c45a7c00542"
+  },
+  "task": "Test Task",
+  "priority": "High",
+  "deadline": {
+    "$date": "2024-08-26T18:30:00.000Z"
+  },
+  "status": 81,
+  "createdAt": {
+    "$date": "2024-08-24T04:29:26.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9bf742e40377da095555e"
+  },
+  "client": {
+    "$oid": "6695955ace1c6c45a7c00574"
+  },
+  "task": "Test Task 2",
+  "priority": "Medium",
+  "deadline": {
+    "$date": "2024-08-26T18:30:00.000Z"
+  },
+  "status": 100,
+  "createdAt": {
+    "$date": "2024-08-24T11:09:40.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cb411a2fb0eaaa379bda7d"
+  },
+  "client": {
+    "$oid": "66959319ce1c6c45a7c00542"
+  },
+  "task": "Test Task 4",
+  "priority": "High",
+  "deadline": {
+    "$date": "2024-08-26T00:00:00.000Z"
+  },
+  "status": 100,
+  "createdAt": {
+    "$date": "2024-08-25T14:35:06.729Z"
+  },
+  "__v": 0
+}]

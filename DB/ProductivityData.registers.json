@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "669592a2ce1c6c45a7c00522"
+  },
+  "name": "Admin",
+  "qualification": "Administrator",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66959319ce1c6c45a7c00540"
+  },
+  "name": "Member 1",
+  "qualification": "Degree",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6695955ace1c6c45a7c00572"
+  },
+  "name": "Member 2",
+  "qualification": "MCA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66959a73e1c3169762c0815e"
+  },
+  "name": "Member 3",
+  "qualification": "MCA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2398d80d4c300a2b5636a"
+  },
+  "name": "Team Lead 1",
+  "qualification": "Masters",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9b5fe423b6d37e645d497"
+  },
+  "name": "Team Lead 2",
+  "qualification": "Masters",
+  "__v": 0
+}]
